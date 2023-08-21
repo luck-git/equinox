@@ -1,1 +1,1 @@
-# equinox
+# Gradio.live equinox
